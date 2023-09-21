@@ -15,6 +15,8 @@
 
 https://github.com/FilippStone/FinalFirst
 
+psevdokod.PNG
+
 
 
 
